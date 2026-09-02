@@ -1,4 +1,4 @@
-# Ya-pas-l-argent-je-suis-la-.dm# Projet : Ya pas l'argent, je suis là !
+# Projet : Ya pas l'argent, je suis là !
 
 ![Statut du Projet](https://img.shields.io/badge/Statut-En_Ébullition_et_Prototypage-orange?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Phase-Éducation_par_le_Flux-blue?style=for-the-badge)
