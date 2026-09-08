@@ -1,0 +1,49 @@
+# Protocole-Neutre-Moteur (PNM)
+
+> "Le moteur du réel : pas de négociation avec la physique."
+
+---
+
+## 1. Vue d'ensemble de l'Architecture
+Le **Protocole-Neutre-Moteur (PNM)** est une architecture technique et systémique conçue pour remplacer les mécanismes de décision géopolitiques traditionnels (souvent corrompus, bloqués par des privilèges comme le droit de veto ou soumis à des rapports de force) par un système de régulation fondé exclusivement sur des critères physiques, mesurables et non négociables.
+
+L'objectif est d'aligner la légitimité institutionnelle et politique directement sur le respect des équilibres réels de la biosphère et des flux matériels.
+
+---
+
+## 2. Le Rôle de l'IA-Tammi (La Boussole / Audit AI)
+Contrairement aux intelligences artificielles décisionnelles classiques, **l'IA-Tammi** ne prend pas de décisions politiques : elle agit comme un **moteur de vérité neutre et non-spéculatif**.
+* **Fonction unique :** Valider les données entrantes par rapport aux lois et contraintes de la physique et des ressources.
+* **Calcul des flux :** Cartographier en temps réel l'impact réel des activités humaines, industrielles et étatiques sans interprétation subjective.
+
+---
+
+## 3. Le Mécanisme d'Entrée : Les Timbres Souverains
+Aucune donnée, aucun rapport d'activité et aucune déclaration d'État ne peut pénétrer le système sans un **Timbre**.
+* **Origine cryptographique :** Le timbre est émis à la source de manière décentralisée par des capteurs physiques indépendants ancrés dans la matière.
+* **Le Piège (Trap) :** Toute tentative de falsification ou de données non-conformes à l'entrée déclenche un rejet automatique et instantané (le piège s'enclenche), empêchant l'injection de fausses vérités dans le Moteur.
+
+---
+
+## 4. Le Vote d'Appartenance et la Fin du Veto
+Dans le PNM, les privilèges géopolitiques historiques (comme les sièges permanents ou les droits de veto figés de type ONU) sont abolis et remplacés par un **statut d'appartenance conditionnelle** :
+1. **Validation par les peuples :** Le pouvoir politique reste ancré dans la souveraineté populaire via un vote d'appartenance.
+2. **Contrôle implacable par l'IA-Tammi :** Ce vote populaire ne suffit pas. Le maintien du statut de l'État dans les instances décisionnelles est validé mathématiquement par les actes réels de l'État (mesurés par les capteurs). Si l'État triche ou viole les seuils physiques, l'appartenance est automatiquement révoquée.
+
+---
+
+## 5. Le Protocole de Contestation Mathématique
+Pour éviter toute injustice liée à un dysfonctionnement matériel local :
+* Le Moteur intègre un **protocole de contestation purement mathématique**.
+* Pas de tribunaux arbitraires ni de négociations diplomatiques : la contestation repose sur une re-vérification algorithmique et croisée par des flux de données contradictoires ou des capteurs adjacents. Le réel corrige le réel.
+
+---
+
+## 6. Structure du Dépôt
+- `Protocole-Neutre-Moteur.md` : Spécifications complètes du système.
+- `architecture-psv.md` : Modélisation des flux et des membranes de filtrage.
+- `iett_calculator.py` : Moteur de calcul des indices de conformité.
+- `fonds_temperance...` : Paramètres de régulation structurelle.
+
+---
+*Transmis au réel. Aucune exception tolérée.*
